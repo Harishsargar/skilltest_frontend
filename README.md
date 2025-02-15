@@ -36,12 +36,12 @@ This project is a **User Management and Task Assignment System** built using **S
 ## 🖥️ **UI Screenshots**  
 
 ### **Login Page**  
-![Login Page](/screenshots/login.png)  
+![Login Page](/screenshorts/login.png)  
 
 ### **User Dashboard**  
-![User Dashboard](/screenshots/userDashboard.png)  
+![User Dashboard](/screenshorts/userDashboard.png)  
 
 ### **Manager Dashboard**  
-![Manager Dashboard](/screenshots/managerDashboard.png)  
+![Manager Dashboard](/screenshorts/managerDashboard.png)  
 
 ---
