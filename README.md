@@ -44,4 +44,14 @@ This project is a **User Management and Task Assignment System** built using **S
 ### **Manager Dashboard**  
 ![Manager Dashboard](/screenshorts/managerDashboard.png)  
 
+
+### **Admin Dashboard**  
+![Admin Dashboard](/screenshorts/adminDashboard.png)  
+
+### **Update User**  
+![Update User](/screenshorts/updateUser.png)  
+
+### **View Assign Task**  
+![View Assign Task](/screenshorts/viewAssignTasks.png)  
+
 ---
