@@ -39,9 +39,9 @@ This project is a **User Management and Task Assignment System** built using **S
 ![Login Page](./screenshots/login.png)  
 
 ### **User Dashboard**  
-![User Dashboard](./screenshots/user-dashboard.png)  
+![User Dashboard](./screenshots/userDashboard.png)  
 
 ### **Manager Dashboard**  
-![Manager Dashboard](./screenshots/manager-dashboard.png)  
+![Manager Dashboard](./screenshots/managerDashboard.png)  
 
 ---
